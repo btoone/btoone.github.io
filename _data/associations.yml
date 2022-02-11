@@ -1,0 +1,22 @@
+# Associations
+# comment out the urls if you do not wish to display them
+
+- organization: Utah Ruby User Group
+  role: Member
+  year: 2012 &mdash; 2022
+  url: https://urug.org/
+  summary: User group for ruby developers in Utah.
+
+- organization: Silicon Slopes
+  role: Member
+  year: 2019 &mdash; 2022
+  url: https://community.siliconslopes.com/salt-lake-city/ 
+  summary: >
+    An organizing body that faciltates events and promotes community at the
+    intersection of technology, business and politics.
+
+- organization: GoRails 
+  role: Member
+  year: 2019 &mdash; 2022
+  url: https://gorails.com/
+  summary: A community of developers focused on Rails and learning.

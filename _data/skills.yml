@@ -1,0 +1,26 @@
+# Skills
+- skill: Organizational leadership
+  description: >
+
+    Several years of experience leading and mentoring developers. Buiding teams
+    from the ground up and implementing industry best practices. Optimizing
+    processes and workflows to ship high-quality code consistently and efficently.
+   
+- skill: Web application developement
+  description: >
+
+    Over a decade of experience developing web applications with a focus on
+    Rails for statups. Skills and knowledge to design, architect and build well
+    tested, modern web applications. Experience with a large variety of web
+    stack technologies including Ruby, Node.js, React, Angular, PostgreSQL,
+    MySQL, MongoDB, git, RSpec, Cucumber, TDD and BDD. 
+
+    Experience also integrating applicaitons with REST APIs for social and
+    payment services.
+
+- skill: DevOps
+  description: >
+
+    Experience building and managing deployment platforms and technologies like
+    Heroku, AWS, Chef, Vagrant and Docker.
+

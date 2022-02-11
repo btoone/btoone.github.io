@@ -1,0 +1,44 @@
+# Jobs
+- company: WORKPLACE21
+  position: Principal, Technology
+  duration: May, 2020 &mdash; Jan, 2022
+  summary: >
+
+    Responsible for architecting and building a web application from a behavior
+    model that generates KPIs from multiple data sources for individuals and
+    teams. Other functions included
+
+    <ul>
+      <li>Manage and mentor a team of developers</li>
+      <li>Create and execute developer workflow processes</li>
+      <li>Build and maintain application infrastructure across multiple environments</li>
+    </ul>
+    
+- company: Borboleta Beauty, Inc.
+  position: Senior Full Stack Developer
+  duration: Jul, 2019 &mdash; Mar, 2020
+  summary: >
+
+    Responsible for an e-commerce store grossing $10M in annual sales.
+    Implemented a custom build and deployment process for rapid, low-touch
+    releases. Leveraged both REST and GraphQL APIs to build a custom data
+    warehouse as well as a variety of back-end tools. Rolled out new
+    initiatives and processes to improve team performance centered around agile
+    development best practices. Mentored other team members on both career and
+    skill development.
+
+
+- company: Red Lake, LLC
+  position: Owner
+  duration: May, 2012 &mdash; Jul, 2019
+  summary: >
+
+    Contract full-stack web developer specializing in Ruby/Rails frameworks.
+    Designed and developed API for multiple web apps (front and back-end).
+    Implemented agile principals for dev teams. Mentored junior developers and
+    established Scrum workflows. Facilitated design sprints to address
+    challenging team roadblocks. Spearheaded initiatives through use of
+    quarterly OKRs. Implemented the release management process for several
+    repositories. Led development team to improved release cycles which
+    resulted in better releases at more regular intervals.
+
