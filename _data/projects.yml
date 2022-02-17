@@ -29,10 +29,10 @@
   description: >
 
     Update and modernize reporting functionality of a Rails application using
-    BDD best practices with RSpec and Cucumber for a non-profit that tracks and
-    reports on companies in the UK to help eradicate modern slavery from their
-    operations and supply chains.
-
+    BDD best practices with RSpec and Cucumber for a non-profit that works to
+    eradicate slave labor in the modern world by tracking and reporting on UK
+    companies and their supply chains.
+    
 # Caseproof
 - project: Mothership
   role: Developer
