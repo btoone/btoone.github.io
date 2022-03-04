@@ -14,6 +14,12 @@
       <li>Build and maintain application infrastructure across multiple environments</li>
     </ul>
 
+    <p>
+      Built an implementation of a behavior model that generated
+      KPIs for users based on message data from social services like Slack and
+      Google and AI sentiment analysis.
+    </p>
+
 - company: Borboleta Beauty, Inc.
   position: Senior Full Stack Developer
   duration: Jul, 2019 &mdash; Mar, 2020
@@ -26,6 +32,12 @@
     initiatives and processes to improve team performance centered around agile
     development best practices. Mentored other team members on both career and
     skill development.
+
+    <p>
+      Designed and built custom data warehouse of Shopify sales data to interface
+      with business intelligence tools, providing greater flexibility and cost
+      savings compared to vendor offerings.
+    </p>
 
 - company: Red Lake, LLC
   position: Senior Web Developer
@@ -40,4 +52,23 @@
     quarterly OKRs. Implemented the release management process for several
     repositories. Led development team to improved release cycles which
     resulted in better releases at more regular intervals.
+
+    <p>
+      Update and modernize reporting functionality of a Rails application using
+      BDD best practices with RSpec and Cucumber for a non-profit that works to
+      eradicate slave labor in the modern world by tracking and reporting on UK
+      companies and their supply chains.
+    </p>
+
+    <p>
+      Built and maintained licensing server for major WordPress membership plugin
+      using Padrino and Heroku pipelines. Managed product development and release
+      management.
+    </p>
+
+    <p>
+      Designed and built Angular/Express.js web app integrating Stripe Connect
+      for buy button payments. Maintained backend Node/Mongo stack. Setup Heroku
+      pipelines for testing, staging and production deployment.
+    </p>
 

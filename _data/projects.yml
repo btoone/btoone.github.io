@@ -1,27 +1,6 @@
 # Projects
 # uncomment the urls if you wish to display them, and add your own URL
 
-# WORKPLACE21
-- project: Core Logic
-  role: Architect & Senior Developer
-  duration: Jun, 2021 &mdash; Dec, 2021
-  # url: "#"
-  description: >
-
-    Built an implementation of a behavior model that generated
-    KPIs for users based on message data from social services like Slack and
-    Google and AI sentiment analysis.
-    
-# Borboleta
-- project: Data Warehouse
-  role: Senior Developer
-  duration: Jan, 2020 &mdash; Mar, 2020
-  description: >
-
-   Designed and built custom data warehouse of Shopify sales data to interface
-   with business intelligence tools, providing greater flexibility and cost
-   savings compared to vendor offerings.
-
 # MSR
 - project: Modern Slavery Registry
   role: Developer
@@ -33,23 +12,11 @@
     eradicate slave labor in the modern world by tracking and reporting on UK
     companies and their supply chains.
     
-# Caseproof
-- project: Mothership
-  role: Developer
-  duration: 2019
-  description: >
-
-    Built and maintained licensing server for major WordPress membership plugin
-    using Padrino and Heroku pipelines. Managed product development and release
-    management.
-
-# Caseproof
-- project: Buy Now Plus
-  role: Developer
+# 
+- project: Utah Open Stack
+  role: Orgainzer
   duration: 2018
   description: >
 
-    Designed and built Angular/Express.js web app integrating Stripe Connect
-    for buy button payments. Maintained backend Node/Mongo stack. Setup Heroku
-    pipelines for testing, staging and production deployment.
+    Organized and setup a Meetup group for OpenStack.
 
