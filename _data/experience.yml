@@ -1,7 +1,23 @@
 # Jobs
+- company: ION Solar
+  position: Senior Rails Engineer
+  duration: April, 2022 &mdash; Present
+  summary: >
+
+    Support the development of a new mobile first application for sales
+    representatives in the field. Created a culture of industry best practices
+    for software delivery including test-driven development with JavaScript,
+    pair programming and user-story focused development.
+
+    <ul>
+      <li>Implement software delivery best practices into the teams</li>
+      <li>Design and build a mobile application using Ionic and Angular</li>
+      <li>Provide mentorship and strategies for adopting new technologies</li>
+    </ul>
+
 - company: WORKPLACE21
   position: Principal, Technology
-  duration: May, 2020 &mdash; Jan, 2022
+  duration: May, 2020 &mdash; Mar, 2022
   summary: >
 
     Responsible for architecting and building a web application from a behavior
@@ -13,7 +29,7 @@
       <li>Create and execute developer workflow processes</li>
       <li>Build and maintain application infrastructure across multiple environments</li>
     </ul>
-    
+
 - company: Borboleta Beauty, Inc.
   position: Senior Full Stack Developer
   duration: Jul, 2019 &mdash; Mar, 2020
@@ -27,9 +43,8 @@
     development best practices. Mentored other team members on both career and
     skill development.
 
-
 - company: Red Lake, LLC
-  position: Owner
+  position: Senior Web Developer
   duration: May, 2011 &mdash; Jul, 2019
   summary: >
 
