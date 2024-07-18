@@ -1,7 +1,7 @@
 ## Overview
 
 Online resume built with Jekyll & GitHub Pages. Viewable at
-[btoone.github.com](https://btoone.github.io/).
+[btoone.github.io](https://btoone.github.io/).
 
 Jekyll template forked from the [Resume
 Template](https://github.com/jglovier/resume-template) engine.
