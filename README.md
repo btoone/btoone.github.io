@@ -3,6 +3,8 @@
 Online resume built with Jekyll & GitHub Pages. Viewable at
 [btoone.github.io](https://btoone.github.io/).
 
+Repository must be public to be visible with GitHub Pages.
+
 Jekyll template forked from the [Resume
 Template](https://github.com/jglovier/resume-template) engine.
 
