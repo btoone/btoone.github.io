@@ -11,7 +11,7 @@ sass:
 # Resume settings
 resume_avatar:                  "true"
 resume_name:                    "Brandon Toone"
-resume_title:                   "Principal, Technology"
+resume_title:                   "Senior Rails Engineer | Expert in Payments & High-Scale Affiliate Systems"
 
 # used for the contact button in _layouts/resume.html
 resume_contact_email:           "btoone@gmail.com"
