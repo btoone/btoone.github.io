@@ -1,7 +1,29 @@
 # Jobs
+- company: ClickFunnels
+  position: Senior Rails Engineer
+  duration: January, 2023 &mdash; Present
+  summary: >
+
+    <ul>
+    <li><b>Payments Team</b>: Improved upon the architecture for order and payment processing,
+    including integrating with third-party payment provider Rebilly and <b>processing $100MM
+    in payments annually</b>. Launched a Discounts feature, enabling users to offer coupon codes,
+    which led to an increase in customer retention and expanded sales options.</li>
+
+    <li><b>Affiliates Team</b>: Led the rearchitecture of the affiliate program, used by over 
+    140k affiliates. Introduced line-item commissions and tiered commission structures,
+    <b>resulting in an increase in affiliate engagement</b>. Enabled the general
+    availability of the affiliate feature to all ClickFunnels users with minimal
+    step up and expanding user adoption.</li>
+
+    <li>Lead team on technical architecture decisions and streamline development
+    processes. Facilitated integration and communication across product, engineering, and QA teams,
+    resulting in faster cycle times and fewer project bottlenecks.</li>
+    <ul>
+
 - company: ION Solar
   position: Senior Rails Engineer
-  duration: April, 2022 &mdash; Present
+  duration: April, 2022 &mdash; January, 2023
   summary: >
 
     Support the development of a new mobile first application for sales
